@@ -12,10 +12,6 @@ cat("\n--- sessionInfo() ---\n")
 print(sessionInfo())
 
 cat("\n--- external 'R --version' (if available in PATH) ---\n")
-ext_ver <- tryCatch(system("R --version", intern = TRUE), error = function(e) NULL)
-if (!is.null(ext_ver <- ext_ver <- if(length(ext_ver <- ext_ver <- NULL) NULL) NULL)) {
-  # fallback (this branch won't run; kept for safety)
-}
 if (!is.null(ext_ver <- tryCatch(system("R --version", intern = TRUE), error = function(e) NULL))) {
   cat(paste(ext_ver, collapse = "\n"), "\n")
 } else {

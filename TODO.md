@@ -9,7 +9,7 @@ Use this file as the project memory between coding sessions.
 ## Website
 
 - [ ] Replace the placeholder RAXO logo with a real logo.
-- [ ] Replace remaining starter Astro background/card styling.
+- [x] Replace remaining starter Astro background/card styling.
 - [ ] Add fuller Research section content.
 - [ ] Add fuller Contact section content.
 

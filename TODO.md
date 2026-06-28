@@ -4,7 +4,7 @@ Use this file as the project memory between coding sessions.
 
 ## Flagged For Next Session
 
-- [ ] Update GitHub Actions versions to remove Node.js 20 deprecation warnings.
+- [x] Update GitHub Actions versions to remove Node.js 20 deprecation warnings.
 
 ## Website
 

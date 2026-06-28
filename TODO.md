@@ -16,4 +16,4 @@ Use this file as the project memory between coding sessions.
 ## Learning Notes
 
 - [x] Practice the Git flow again: edit, save, build, stage, commit, push.
-- [ ] Learn the difference between Astro pages, layouts, and components.
+- [x] Learn the difference between Astro pages, layouts, and components.
